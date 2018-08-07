@@ -19,21 +19,18 @@ public class LoopsPractice
     }
 
 
-
-
     // Extract all categories from string argument
     public static void printCategories (String str)
     {
 
 
-
     }
 
-    String mainStr ="WE have a large invetory of things in our warwehouse falling in "
-            +" the category :appearl and the slighty "
+    String mainStr ="WE have a large inventory of things in our warehouse falling in "
+            +" the category :appeal and the slightly "
             + "more in demond category:maekup along with the category :furniture and ...";
 
-     printCategories(mainStr);
+    printCategories(mainStr);
 
 
 }
